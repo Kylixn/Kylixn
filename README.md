@@ -1,9 +1,8 @@
 # 👋 Bienvenue sur mon GitHub !  
 
 ### 👨‍💻 À propos de moi  
-- 🔭 **Étudiant** en administration systèmes & réseaux.  
-- 🌱 Je développe mes projets principalement en **JavaScript**, **HTML** et **CSS**.  
-
+- 🔭 **Étudiant** en administration systèmes & réseaux.
+- 
 ### 🚀 Mes projets  
 Pour l'instant, je n'ai pas de projet public à présenter. Mais reste connecté, ça arrive bientôt ! 😄  
 
